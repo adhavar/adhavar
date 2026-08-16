@@ -10,23 +10,18 @@ I am a Data Science student, currently pursuing associate degrees in Computer Sc
 <img width="8"/> <img src="https://img.shields.io/badge/Python-613fb5?style=for-the-badge&logo=python&logoColor=white"/>
 <img width="8"/> <img src="https://img.shields.io/badge/SQLite-613fb5?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
-<h4 align="center">Data Science and Analysis</h4>
+<h4 align="center">Libraries</h4>
 <img width="8"/> <img src="https://img.shields.io/badge/Pandas-613fb5?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img width="8"/> <img src="https://img.shields.io/badge/NumPy-613fb5?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img width="8"/> <img src="https://img.shields.io/badge/Seaborn-613fb5?style=for-the-badge&logoColor=white"/>
 <img width="8"/> <img src="https://img.shields.io/badge/Statsmodels-613fb5?style=for-the-badge&logoColor=white"/>
-<img width="8"/> <img src="https://img.shields.io/badge/Power%20Query-613fb5?style=for-the-badge&logoColor=white"/>
-
+<img width="8"/> <img src="https://img.shields.io/badge/Matplotlib-613fb5?style=for-the-badge&logoColor=white"/>
 
 <h4 align="center">Tools and Environments</h4>
 <img width="8"/> <img src="https://img.shields.io/badge/Jupyter%20Notebook-613fb5?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img width="8"/> <img src="https://img.shields.io/badge/Anaconda-613fb5?style=for-the-badge&logo=anaconda&logoColor=white"/>
 <img width="8"/> <img src="https://img.shields.io/badge/VS%20Code-613fb5?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-<h4 align="center">Visualization</h4>
-<img width="8"/> <img src="https://img.shields.io/badge/Matplotlib-613fb5?style=for-the-badge&logoColor=white"/>
-<img width="8"/> <img src="https://img.shields.io/badge/Excel-613fb5?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img width="8"/> <img src="https://img.shields.io/badge/Tableau-613fb5?style=for-the-badge&logo=tableau&logoColor=white"/> 
 </div>
 
 <br>
